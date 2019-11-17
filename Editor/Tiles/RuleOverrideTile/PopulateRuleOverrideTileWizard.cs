@@ -6,7 +6,7 @@ using UnityEngine.Scripting.APIUpdating;
 
 namespace UnityEditor.Tilemaps
 {
-    [MovedFrom(true, "UnityEditor")]
+    [MovedFrom(sourceNamespace: "UnityEditor")]
     public class PopulateRuleOverideTileWizard : ScriptableWizard 
     {
         [MenuItem("CONTEXT/RuleOverrideTile/Populate From Sprite Sheet")]

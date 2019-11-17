@@ -8,7 +8,7 @@ namespace UnityEngine.Tilemaps
     /// <summary>
     /// Rule Override Tiles are Tiles which can override a subset of Rules for a given Rule Tile to provide specialised behaviour while keeping most of the Rules originally set in the Rule Tile.
     /// </summary>
-    [MovedFrom(true, "UnityEngine")]
+    [MovedFrom(sourceNamespace: "UnityEngine")]
     [Serializable]
     [CreateAssetMenu(fileName = "New Rule Override Tile", menuName = "Tiles/Rule Override Tile")]
     public class RuleOverrideTile : TileBase
