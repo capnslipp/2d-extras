@@ -1,5 +1,7 @@
 # 2d-extras
 
+___Note: This fork exists for the purpose of maintaining backwards-compatibility with Unity 2018.4 (LTS). The `2018.4-compat` branch tracks the current [Unity-Technologies/2d-extras@master](https://github.com/Unity-Technologies/2d-extras/tree/master), but with backported syntax & config changes to make sure it still compiles & works in 2018.4.___
+
 2d-extras is a repository containing helpful reusable scripts which you can use to make your games, with a slant towards 2D. Feel free to customise the behavior of the scripts to create new tools for your use case! 
 
 Implemented examples using these scripts can be found in the sister repository [2d-techdemos](https://github.com/Unity-Technologies/2d-techdemos "2d-techdemos: Examples for 2d features").
